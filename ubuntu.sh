@@ -40,4 +40,4 @@ curl -L "https://raw.githubusercontent.com/metanorma/plantuml-install/master/ubu
 
 # Install latexml
 curl -L http://cpanmin.us | perl - App::cpanminus
-cpanm LaTeXML@0.8.2
+cpanm LaTeXML@0.8.3
